@@ -1,2 +1,1 @@
-# rubyproject
-# trying ruby for the first time!
+# A password generator made with ruby 
