@@ -1,1 +1,1 @@
-# A password generator made with ruby 
+# A password generator made with ruby2d 
